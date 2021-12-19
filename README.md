@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cmucodemonkey
-- 👀 I’m interested in photography, music, and computer programming
+- 👋 Hi, I’m Steven Ball(aka @cmucodemonkey)
+- 👀 I’m interested in Photography, Music, and Computer Programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me @cmucodemonkey on Twitter
 
